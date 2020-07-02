@@ -1,0 +1,10 @@
+G:\workspace\ChinelaLauncher\ChinelaLauncher\obj\Debug\ChinelaLauncher.csprojAssemblyReference.cache
+G:\workspace\ChinelaLauncher\ChinelaLauncher\obj\Debug\ChinelaLauncher.Form1.resources
+G:\workspace\ChinelaLauncher\ChinelaLauncher\obj\Debug\ChinelaLauncher.Properties.Resources.resources
+G:\workspace\ChinelaLauncher\ChinelaLauncher\obj\Debug\ChinelaLauncher.csproj.GenerateResource.cache
+G:\workspace\ChinelaLauncher\ChinelaLauncher\obj\Debug\ChinelaLauncher.csproj.CoreCompileInputs.cache
+G:\workspace\ChinelaLauncher\ChinelaLauncher\bin\Debug\ChinelaLauncher.exe.config
+G:\workspace\ChinelaLauncher\ChinelaLauncher\bin\Debug\ChinelaLauncher.exe
+G:\workspace\ChinelaLauncher\ChinelaLauncher\bin\Debug\ChinelaLauncher.pdb
+G:\workspace\ChinelaLauncher\ChinelaLauncher\obj\Debug\ChinelaLauncher.exe
+G:\workspace\ChinelaLauncher\ChinelaLauncher\obj\Debug\ChinelaLauncher.pdb
