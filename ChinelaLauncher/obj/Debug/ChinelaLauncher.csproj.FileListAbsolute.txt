@@ -8,3 +8,13 @@ G:\workspace\ChinelaLauncher\ChinelaLauncher\bin\Debug\ChinelaLauncher.exe
 G:\workspace\ChinelaLauncher\ChinelaLauncher\bin\Debug\ChinelaLauncher.pdb
 G:\workspace\ChinelaLauncher\ChinelaLauncher\obj\Debug\ChinelaLauncher.exe
 G:\workspace\ChinelaLauncher\ChinelaLauncher\obj\Debug\ChinelaLauncher.pdb
+G:\workspace\Github\ChinelaLauncher\ChinelaLauncher\bin\Debug\ChinelaLauncher.exe.config
+G:\workspace\Github\ChinelaLauncher\ChinelaLauncher\bin\Debug\ChinelaLauncher.exe
+G:\workspace\Github\ChinelaLauncher\ChinelaLauncher\bin\Debug\ChinelaLauncher.pdb
+G:\workspace\Github\ChinelaLauncher\ChinelaLauncher\obj\Debug\ChinelaLauncher.csprojAssemblyReference.cache
+G:\workspace\Github\ChinelaLauncher\ChinelaLauncher\obj\Debug\ChinelaLauncher.Form1.resources
+G:\workspace\Github\ChinelaLauncher\ChinelaLauncher\obj\Debug\ChinelaLauncher.Properties.Resources.resources
+G:\workspace\Github\ChinelaLauncher\ChinelaLauncher\obj\Debug\ChinelaLauncher.csproj.GenerateResource.cache
+G:\workspace\Github\ChinelaLauncher\ChinelaLauncher\obj\Debug\ChinelaLauncher.csproj.CoreCompileInputs.cache
+G:\workspace\Github\ChinelaLauncher\ChinelaLauncher\obj\Debug\ChinelaLauncher.exe
+G:\workspace\Github\ChinelaLauncher\ChinelaLauncher\obj\Debug\ChinelaLauncher.pdb

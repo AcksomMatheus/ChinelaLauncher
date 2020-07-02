@@ -16,6 +16,7 @@ namespace ChinelaLauncher
             InitializeComponent();
         }
 
+        //Tirar Borda e permite mover o launcher
         protected override void OnLoad(EventArgs e)
         {
             if (this.FormBorderStyle == System.Windows.Forms.FormBorderStyle.None)
